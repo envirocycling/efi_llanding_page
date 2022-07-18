@@ -1,0 +1,25 @@
+
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, rgba(255,255,255, 0.3), rgba(255,255,255, 0.3)), url('../images/cover.jpg');
+    background-position: top;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    background-color: rgba(255,255,255,.8);
+}
+
+.title {
+    background: linear-gradient(to right, rgb(81,221,144), rgb(0,122,237));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.item:hover {
+    color: #fff !important;
+    background-color: rgb(81,221,144) !important;
+}
