@@ -44,7 +44,7 @@ $menus = [
     [
         "label" => "WEB MAIL",
         "icon" => "fa-envelope",
-        "path" => "https://webmail.efi.net.ph/roundcube/"
+        "path" => "https://v-host8.ph:2096/"
     ],
 ];
 
